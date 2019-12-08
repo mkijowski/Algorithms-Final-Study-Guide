@@ -6,7 +6,7 @@ which ones are equivalent, and on that basis, order the equivalence classes.
 
 ##### Problem 2: Recurrences
 Are there values of n for which repeated square rooting *n*
-`(sqrt(sqrt(...(sqrt(n)...))` can yield integers? 
+`sqrt(sqrt(...(sqrt(n)...))` can yield integers? 
 
 Either argue that such arbitrarily long finite sequence of
 integers do not exist, or provide a general formula/schema for constructing
@@ -33,7 +33,9 @@ of the two strings CAT and ACGC under the operation cost model where
 
 ##### Problem 5: Network Flow (needs diagram)
 1. Determine the maximum flow from node s to node t in the
-   following network. The labels on the edges indicate their capacity.
+   following network. 
+   ![graph](https://github.com/mkijowski/Algorithms-Final-Study-Guide/raw/master/graph.png)
+   The labels on the edges indicate their capacity.
 2. Show the actual flow through each edge of the network so as to realize
    the maximum flow. (Note that c-e edge goes both ways.)
 
