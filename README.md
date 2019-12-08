@@ -79,7 +79,4 @@ T(n) =  {  O(n^(d+1))          if a = 1
 * Next, open up a textbook read a standard proof of the Master theorem. Work through each step and check that you understand what's happening.
 * Now, close your textbook and put away all your resources. Put a blank piece of paper in front of you... and derive the Master theorem yourself. How do you do that? Well, you use the recursion tree method. Try working through it by yourself and try to solve the recurrence entirely on your own. If you get stuck, as a last resort you can open the textbook back up and see how to proceed from there... but then the next day, you should try this exercise again.
 
-## Sample Midterm
-###### 1) [Stable  Marriage  Problem]
-State  whether  the  following  claims  are true  or false.   
-If   true,   justify it as   clearly   as   possible. If false, provide a 
+
