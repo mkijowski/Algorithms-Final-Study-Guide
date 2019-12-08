@@ -6,7 +6,7 @@ which ones are equivalent, and on that basis, order the equivalence classes.
 
 ##### Problem 2: Recurrences
 Are there values of n for which repeated square rooting *n*
-`(sqrt(sqrt(...(sqrt(n)...))' can yield integers? 
+`(sqrt(sqrt(...(sqrt(n)...))` can yield integers? 
 
 Either argue that such arbitrarily long finite sequence of
 integers do not exist, or provide a general formula/schema for constructing
